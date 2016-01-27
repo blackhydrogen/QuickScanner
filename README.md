@@ -9,7 +9,7 @@ int myInt       = scanner.nextInt();
 long myLong     = scanner.nextLong();
 double myDouble = scanner.nextDouble();
 String myString = scanner.next();
-String myLine     = scanner.nextLine();
+String myLine = scanner.nextLine();
 ```
 
 ##Detailed Guide
