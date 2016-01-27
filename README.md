@@ -5,8 +5,8 @@ A faster alternative to java.util.Scanner. While QuickScanner does not provide t
 ```
 QuickScanner scanner = new QuickScanner(System.in);
 
-int myInt       = scanner.nextInt();
-long myLong     = scanner.nextLong();
+int    myInt    = scanner.nextInt();
+long   myLong   = scanner.nextLong();
 double myDouble = scanner.nextDouble();
 String myString = scanner.next();
 String myLine   = scanner.nextLine();
